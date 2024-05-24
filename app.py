@@ -30,7 +30,7 @@ st.sidebar.markdown("[Visit Xeven Solutions](https://www.xevensolutions.com/)")
 # App title and description
 st.title("🔍 Chatbot for Xeven Solution")
 st.markdown("""
-    Welcome to the custom chatbot app! This tool allows you to query and retrieve information from Xeven Solution websites using advanced language models.
+    Welcome to the custom chatbot app! This tool allows you to query and retrieves relevant information from specified URLs and provides accurate responses to user queries.
     First click on the button to create vector embeddings and interact with the chatbot.
 """)
 
