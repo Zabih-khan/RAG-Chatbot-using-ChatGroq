@@ -1,5 +1,6 @@
 # RAG-Chatbot-using-ChatGroq
 
+![alt text](chatbot.mp4)
 
 ## Overview
 
