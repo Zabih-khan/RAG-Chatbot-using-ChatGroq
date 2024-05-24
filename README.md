@@ -1,6 +1,6 @@
 # RAG-Chatbot-using-ChatGroq
 
-![alt text](chatbot.mp4)
+![alt text](image.png)
 
 ## Overview
 
