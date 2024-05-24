@@ -1,6 +1,6 @@
 # RAG-Chatbot-using-ChatGroq
 
-![alt text](image-1.png)
+![alt text](image.png)
 ## Overview
 
 This chatbot application allows users to query information from specific sections of the Xeven Solutions website, including the main page, About Us, Careers, and Portfolio sections. The chatbot is built using Streamlit for the frontend and integrates various AI technologies to provide accurate responses based on the website's content. Iused Groq api to access the Large language model. In this project i used Llama3-8b-8192 model. 
